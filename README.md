@@ -1,1 +1,3 @@
-# project-3-image-segmentation
+# Image Segmentation System
+
+Run with `python app.py` in GitHub Codespaces.
